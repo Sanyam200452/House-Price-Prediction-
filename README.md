@@ -30,6 +30,3 @@ The core of the modeling process involved building a Voting Regressor, which agg
 
 The models were evaluated using cross-validation and performance metrics, such as Mean Absolute Error (MAE) and Root Mean Square Error (RMSE). The Voting Regressor was chosen for its ability to leverage the strengths of individual models, providing a balanced and accurate prediction.
 
-## Conclusion
-
-The final Voting Regressor model, combining RF, XGB, and LGBM, demonstrated strong performance in predicting house prices. This approach not only enhanced predictive accuracy but also provided a robust solution by mitigating individual model weaknesses.
